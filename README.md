@@ -95,7 +95,7 @@ The report also records checks for successful and invalid `setnice()` inputs, `g
 
 The detailed report describes the design, modified kernel components, code excerpts, test procedures, and observed results:
 
-- Project2_CFS_Report.docx
+- [Project2_CFS_Report.docx](https://github.com/minsoobae1128/xv6-CFS-Scheduler/commit/5b7d6162471b510b7d28a2e9b26921c36a80f0c5)
 
 ## Acknowledgements
 
