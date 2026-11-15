@@ -95,9 +95,7 @@ The report also records checks for successful and invalid `setnice()` inputs, `g
 
 The detailed report describes the design, modified kernel components, code excerpts, test procedures, and observed results:
 
-- [Project 2 CFS Implementation Report](docs/Project2_CFS_Report.docx)
-
-Place the report at the path above, or update the link to match the filename and location in this repository. The original course assignment PDF is not included here; this README summarizes the implementation requirements relevant to the project.
+- Project2_CFS_Report.docx
 
 ## Acknowledgements
 
